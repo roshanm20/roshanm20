@@ -30,7 +30,7 @@
 
 **BS-MS Physics Graduate • Minor in Earth & Env. Science**
 
-I am an **Astrophysics researcher** specializing in **radio interferometry and spectral analysis**, with deep expertise in **machine learning and deep learning architectures**. I am pioneering the application of AI in astronomy by developing novel **U-Net pipelines for image deconvolution** and sophisticated simulation engines. My work is dedicated to advancing scientific discovery through the convergence of **rigorous physics and modern artificial intelligence**.
+I am an **Astrophysics researcher** specializing in **radio interferometry and spectral analysis**, with experience in **machine learning and deep learning architectures**. I am pioneering the application of AI in astronomy by developing novel **U-Net pipelines for image deconvolution** and sophisticated simulation engines. My work is dedicated to advancing scientific discovery through the convergence of **rigorous physics and modern artificial intelligence**.
 
 - 🔭 Currently developing **AutoBAL.AI** and **CosmoScope** for advanced spectral analysis.
 - 🌌 Exploring **latent-space modeling** of AGN and YSO spectra.
