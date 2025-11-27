@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT0xerA7jXhK1D4z7W/giphy.gif" width="100%" alt="Cosmic Banner" />
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" alt="Cosmic Banner" />
 </div>
 
 <h1 align="center">Hi there, I'm <span style="color: #3B82F6;">Muhammed Roshan M</span> 👋</h1>
