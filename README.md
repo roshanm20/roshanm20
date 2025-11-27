@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.redd.it/jegt0ci43ede1.gif" width="100%" alt="Cosmic Banner" />
+  <img src="header.gif" width="100%" alt="Cosmic Banner" />
 </div>
 
 <h1 align="center">Hi there, I'm <span style="color: #3B82F6;">Muhammed Roshan M</span> 👋</h1>
@@ -81,22 +81,6 @@ I am an **Astrophysics researcher** specializing in **radio interferometry and s
 | **[Autobal.AI](https://github.com/roshanm20/Autobal.AI)** | Research-grade reduction pipeline for Broad Absorption Line Quasars (BALQSO). Features an **AI Analyst chatbot** for real-time metric interpretation. | `React 19` `Gemini 2.5` `Python` | [GitHub](https://github.com/roshanm20/Autobal.AI) |
 | **[STELLAR-LENS](https://github.com/roshanm20/Stellar-lens)** | Multimodal scientific dashboard modeling accretion dynamics of YSOs. Features a custom **real-time physics engine** and embedded AI Astrophysicist. | `React 19` `Gemini 2.5` `Physics Engine` | [GitHub](https://github.com/roshanm20/Stellar-lens) <br/> [Live Demo](https://stellar-lens.netlify.app/) |
 | **[YSO Latent Explorer](https://github.com/roshanm20/astrobench-yso-explorer)** | AI-driven dashboard bridging raw astronomical time-series data and physical interpretation. Visualizes **high-dimensional latent spaces** using RAG. | `React 19` `Gemini 2.5` `TensorFlow` | [GitHub](https://github.com/roshanm20/astrobench-yso-explorer) <br/> [Live Demo](https://astrobench-yso-explorer.netlify.app) |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roshanm20&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanm20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
-</div>
 
 ---
 
