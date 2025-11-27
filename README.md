@@ -26,7 +26,7 @@
 
 ---
 
-## 🔭 About Me
+## About Me
 
 **BS-MS Physics Graduate • Minor in Earth & Env. Science**
 
@@ -40,7 +40,7 @@ I am an **Astrophysics researcher** specializing in **radio interferometry and s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -73,7 +73,7 @@ I am an **Astrophysics researcher** specializing in **radio interferometry and s
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |:--------|:------------|:-----------|:------|
